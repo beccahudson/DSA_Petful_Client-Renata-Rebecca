@@ -1,0 +1,202 @@
+@import url('https://fonts.googleapis.com/css2?family=Snippet&display=swap');
+
+* {
+  background-color: #282c34;
+}
+
+h2 {
+  font-family: 'Snippet', sans-serif;
+  font-size: 70px;
+  color: whitesmoke;
+  margin-top: 1px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+.app {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+h1 {
+  font-family: 'Snippet', sans-serif;
+  color: #FFD700;
+  font-size: 40px;
+  padding: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-top: -10px;
+}
+
+a{
+  text-decoration: none;
+}
+
+h3 {
+  text-align: center;
+}
+
+h3, p, label {
+  font-family: 'Snippet', sans-serif;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.personBox{
+  margin-right: 5px;
+  margin-left: 5px;
+}
+
+.landingText {
+  margin-left: 15px;
+  margin-right: 15px;
+  max-width: 500px;
+  text-align: center;
+  color: whitesmoke;
+}
+
+input[type='text'] {
+  background-color: ghostwhite;
+}
+
+.appHeader {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: calc(10px + 1.25vmin);
+  margin-top: 40px;
+}
+
+#startButton {
+  margin-left: auto;
+  margin-right: auto;
+  color: black;
+  font-size: 16px;
+  border: 1px solid whitesmoke;
+  background-color: ghostwhite;
+  border-radius: 2px;
+  text-decoration: none;
+  padding: 2px;
+}
+
+#buttonContainer {
+  text-align: center;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 3px;
+}
+
+input{
+  margin: 5px;
+  padding: 3px;
+  border-radius: 3px;
+}
+
+#petContainers {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.petDisplay {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  color: #FFD700;
+  font-family: 'Snippet', sans-serif;
+}
+
+.justColor{
+  margin: 10px;
+  color: ghostwhite;
+}
+
+button {
+  color: black;
+  background-color: ghostwhite;
+  border-radius: 2px;
+  font-size: 12px;
+  cursor: pointer;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#catDisplay, #dogDisplay {
+  border: 3px solid whitesmoke;
+  padding: 5px;
+  margin: 5px;
+}
+
+.petPicture {
+  height: 200px;
+  width: auto;
+  padding: 2.5px;
+  margin: 3px;
+}
+
+li {
+  text-align: left;
+  list-style-type: none;
+  color: ghostwhite;
+  margin-bottom: 5px;
+}
+
+.yellow {
+  color: #FFD700;
+  font-weight: bold;
+}
+
+.userLine{
+  text-align: center;
+  padding: 10px;
+  color: #FFD700;
+}
+
+.titleLine {
+  text-align: center;
+  padding: 10px;
+}
+
+#adoptionPairs {
+  font-weight: bold;
+}
+
+@media only screen and (min-width: 650px) {
+
+  #petContainers {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+
+  #catDisplay {
+    border: 3px solid whitesmoke;
+    padding: 5px;
+    margin: 20px;
+  }
+
+  #dogDisplay {
+    border: 3px solid whitesmoke;
+    padding: 5px;
+    margin: 20px;
+  }
+}
+
+@media only screen and (min-width: 765px) {
+
+
+h1 {
+  font-size: 70px;
+  margin-top: -10px;
+}
+
+h2 {
+  margin-top: -40px;
+}
+
+
+}
