@@ -33,7 +33,7 @@ Back-End: _NodeJS | ExpressJS_
 
 ## Screenshot
 
-* Landing Page ![Landing Page](./image/landing.jpg)
-* Pet Adoption Page ![Adoption Page](./image/adopt.jpg)
-* Waiting List for Adoption ![Adoption Q](./image/adoptionQ.jpg)
-* When ready to adopt ![Your Turn](./image/adoptionQ.jpg)
+![Landing Page](./image/landing.jpg)
+![Adoption Page](./image/adopt.jpg)
+![Adoption Q](./image/adoptionQ.jpg)
+![Your Turn](./image/adoptionQ.jpg)
