@@ -33,7 +33,7 @@ Back-End: _NodeJS | ExpressJS_
 
 ## Screenshot
 
-![Landing Page](./image/landing.jpg)
-![Adoption Page](./image/adopt.jpg)
-![Adoption Q](./image/adoptionQ.jpg)
-![Your Turn](./image/adoptionQ.jpg)
+![Landing Page](./src/image/landing.jpg)
+![Adoption Page](./src/image/adopt.jpg)
+![Adoption Q](./src/image/adoptionQ.jpg)
+![Your Turn](./src/image/adoptionQ.jpg)
