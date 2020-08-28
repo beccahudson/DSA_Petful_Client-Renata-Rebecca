@@ -35,5 +35,5 @@ Back-End: _NodeJS | ExpressJS_
 
 ![Landing Page](/src/image/landing.jpg "Landing Page")
 ![Adoption Page](/src/image/adopt.jpg "Adopt Page")
-![Adoption Q](/src/image/adoptionQ.jpg "Adoption Q")
+![Adoption Q](/src/image/fifo-list.jpg "Adoption Q")
 ![Your Turn](/src/image/adoptionQ.jpg  "Your turn to adopt")
